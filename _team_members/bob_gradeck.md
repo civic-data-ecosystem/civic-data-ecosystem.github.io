@@ -1,0 +1,8 @@
+---
+name: Bob Gradeck
+title: Project Director, WPRDC
+---
+Bob Gradeck manages the Western Pennsylvania Regional Data Center at the University of Pittsburgh’s University Center for Social and Urban Research. Bob has worked at the University Center since 2009, where he managed other community information, research, and outreach projects.  
+Prior to joining the University of Pittsburgh, Bob worked at the Carnegie Mellon University Center for Economic Development for ten years, where he helped to found the Pittsburgh Neighborhood and Community Information System, and worked on a number of projects and initiatives related to technology-based economic development in the Pittsburgh region. Bob also worked at City Source Associates in Pittsburgh, where he compiled information for people moving to the City of Pittsburgh. Bob started his career at the Atlanta Project, where he helped lay the foundation of one of the nation’s first neighborhood information systems. Bob received a Bachelor’s degree in Urban Studies from the University of Pittsburgh in 1993, and a Masters of City Planning from the Georgia Institute of Technology in 1995.    
+Bob recently served on the Executive Committee for the National Neighborhood Indicators Partnership, and also was the first organizer of Code for Pittsburgh, the region’s Code for America Brigade.
+Bob is married, has two children and a dog, grew up in Pittsburgh’s Overbrook neighborhood, and now lives in Regent Square. In his spare time, he can often be found walking the dog, running errands, fixing the house, and occasionally at the hockey rink or kayaking.
