@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<!--
+	Forty by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+
+<html>
+
+    {% include head.html %}
+
+        <body>
+            {% include header.html %}
+            <div id="main" class="alt">
+                <section id="one">
+                    <div class="inner">
+                        <header class="major">
+                            <h1>Events</h1>
+                        </header>
+                        {% assign current_month = null %}
+                        {% for event in site.events %}
+                            {% capture month %}{{ event.date | date: "%B" }}{% endcapture %}
+                            {% if current_month != month %}
+                                <h2>{{ month }}</h2>
+                                {% assign current_month = month %}
+                            {% endif %}
+                            <p><h3><u>{{ event.title }}</h3></u>
+                            <p-alt><i>{{ event.date | date: '%B %d'}}
+                            <br>{{ event.time }}</i>
+                            <br>{{ event.description }}</p-alt><p>
+                            {{ event.content }}
+                        {% endfor %}
+                    </div>
+                </section>
+        </body>
+    {% include footer.html %}
+</html>
