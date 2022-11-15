@@ -4,7 +4,7 @@ subtitle:
 email: 
 description: Ensuring the sustainability and continued advancement <br />of open-source civic open data ecosystems
 baseurl: # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+url: https://civicdataecosystem.com/
 author:
 street_address: 
 city: 
