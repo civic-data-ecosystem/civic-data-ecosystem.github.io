@@ -3,8 +3,8 @@ title: POSE
 subtitle: 
 email: 
 description: Ensuring the sustainability and continued advancement <br />of open-source civic open data ecosystems
-baseurl: # the subpath of your site, e.g. /blog
-url: https://civicdataecosystem.com/
+baseurl: 
+url: https://civicdataecosystem.org
 author:
 street_address: 
 city: 
