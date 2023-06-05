@@ -19,16 +19,18 @@
       <!-- One -->
       <section id="one">
 	<div class="inner">
-    <header class="major">
-	    <h1>Blog</h1>
-	  </header>
-  
-    {% for post in site.posts %}
+     <header>
+         <h1>Blog</h1>
+         Click any title to read the full post and join in the discussion<br /><br />
+     </header>
+      {% for post in site.posts %}
 	  {% if post.title != 404 %}
-	    <h2>{{ post.title }}</h2>
+        <header class="major" style="margin-bottom:0px">
+            <h1><a href="{{post.url}}">{{post.title}}</a></h1>
+        </header>
 	    {% if post.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ post.image }}" alt="" /></span>{% endif %}
-	    {% if post.date %}<p>{{ post.date | date: '%B %d, %Y'}}</p>{% endif %}
-	    <p-alt>{{ post.content }}</p-alt>
+	    {% if post.date %}<p-alt>{{ post.date | date: '%B %d, %Y'}}</p-alt>{% endif %}
+	    <p-blog>{{ post.content | truncatewords:100 }}</p-blog>
 	  {% endif %}
           {% endfor %}
 	</div>
