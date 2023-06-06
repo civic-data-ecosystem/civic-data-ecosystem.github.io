@@ -7,6 +7,10 @@ image: null
 author: null
 show_tile: false
 ---
+## News
+
+- [Schedule of Sensemaking Workshops](/2023/05/30/sensemaking.html)
+- [Towards a Robust, Open-Source Civic Data Ecosystem](/2022/11/15/Welcome.html) 
 
 ## About
 
@@ -20,11 +24,12 @@ including:
 - Adequately supporting and managing product maintenance;
 - Integrating innovations developed by members of the ecosystem with the core product;
 - Maintaining relevance with changes to the transparency and open data landscape; and
-- Ensuring that user needs are integrated with product development road maps.  
+- Ensuring that user needs are integrated with product development road maps.
 
 [Learn more](/about.html)
 
 ## Connect with us
+
 Have insights to share? Know someone who does?  
 Connect with us through [Email](mailto:poseckan@pitt.edu), or our [GitHub discussion board](https://github.com/civic-data-ecosystem/civic-data-ecosystem.github.io/discussions/17).  
 *Check back for details on events and open office hours.*

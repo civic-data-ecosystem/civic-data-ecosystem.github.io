@@ -1,11 +1,12 @@
 --- 
 layout: post
-title: Schedule of sensemaking workshops
+comments: true
+title: Schedule of Sensemaking Workshops
 description: let's get together and make some sense
 image: null
 ---
 
-## Upcoming Sensemaking Workshops
+### Upcoming Sensemaking Workshops
 
 Join us for a series of virtual workshops to learn more about our findings so far, share insight from your own experience and connect with other members of the CKAN ecosystem.  
 
