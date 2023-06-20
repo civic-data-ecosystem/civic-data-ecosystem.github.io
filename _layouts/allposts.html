@@ -24,15 +24,29 @@
          Click any title to read the full post and join in the discussion<br /><br />
      </header>
       {% for post in site.posts %}
-	  {% if post.title != 404 %}
-        <header class="major" style="margin-bottom:0px">
-            <h1><a href="{{post.url}}">{{post.title}}</a></h1>
-        </header>
-	    {% if post.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ post.image }}" alt="" /></span>{% endif %}
-	    {% if post.date %}<p-alt>{{ post.date | date: '%B %d, %Y'}}</p-alt>{% endif %}
-	    <p-blog>{{ post.content | truncatewords:100 }}</p-blog>
-	  {% endif %}
-          {% endfor %}
+          {% if post.sticky %}
+            {% if post.title != 404 %}
+                <header class="major" style="margin-bottom:0px">
+                    <h1><a href="{{post.url}}">{{post.title}}</a></h1>
+                </header>
+                {% if post.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ post.image }}" alt="" /></span>{% endif %}
+                {% if post.date %}<p-alt>{{ post.date | date: '%B %d, %Y'}}</p-alt>{% endif %}
+                <p-blog>{{ post.content | truncatewords:100 }}</p-blog>
+            {% endif %}
+          {% endif %}
+      {% endfor %}
+      {% for post in site.posts %}
+          {% if post.sticky == false %}
+            {% if post.title != 404 %}
+                <header class="major" style="margin-bottom:0px">
+                    <h1><a href="{{post.url}}">{{post.title}}</a></h1>
+                </header>
+                {% if post.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ post.image }}" alt="" /></span>{% endif %}
+                {% if post.date %}<p-alt>{{ post.date | date: '%B %d, %Y'}}</p-alt>{% endif %}
+                <p-blog>{{ post.content | truncatewords:101 }}</p-blog>
+            {% endif %}
+          {% endif %}
+      {% endfor %}
 	</div>
       </section>
 

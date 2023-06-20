@@ -10,6 +10,7 @@ show_tile: false
 ## News
 
 - [Schedule of Sensemaking Workshops](/2023/05/30/sensemaking.html)
+- [Analysis of CKAN Instance Metadata](2023/06/19/analysis.html)
 - [Towards a Robust, Open-Source Civic Data Ecosystem](/2022/11/15/Welcome.html) 
 
 ## About
