@@ -13,6 +13,7 @@ zip_code:
 country: 
 phone: 
 
+
 collections: 
   team_members:
     people: true
@@ -51,3 +52,4 @@ exclude:
 - LICENSE.md
 - CONTRIBUTING.md
 - README.md 
+
