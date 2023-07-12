@@ -132,7 +132,6 @@
 			}
 		}
 	}
-
 	dl {
 		margin: 0 0 _size(element-margin) 0;
 
@@ -145,4 +144,17 @@
 		dd {
 			margin-left: _size(element-margin);
 		}
+	}
+
+	ul li ul {
+		margin-bottom:0px;
+	}
+	ul li ul li {
+		padding: 0 0 0 0px;
+		list-style: circle;
+	}
+	ul li ul li ul li {
+		list-style: square;
+		margin-top: 0px;
+		margin-bottom: 0px;
 	}

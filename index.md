@@ -10,6 +10,7 @@ show_tile: false
 ## News
 
 - [Schedule of Sensemaking Workshops](/2023/05/30/sensemaking.html)
+- [Summary of Ecosystem Interviews Released](/2023/06/30/report.html)
 - [CKAN Instance Analysis](2023/06/19/analysis.html)
 - [Towards a Robust, Open-Source Civic Data Ecosystem](/2022/11/15/Welcome.html) 
 
