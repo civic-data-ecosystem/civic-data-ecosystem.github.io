@@ -10,6 +10,7 @@ show_tile: false
 ## News
 
 - [Schedule of Sensemaking Workshops](/2023/05/30/sensemaking.html)
+- [CKAN Major Releases Timeline: A Journey of Continuous Improvement](/2023/07/20/timeline.html)
 - [Sensemaking Workshop Recap](/2023/07/18/recap.html)
 - [Summary of Ecosystem Interviews Released](/2023/06/30/report.html)
 - [CKAN Instance Analysis](2023/06/19/analysis.html)
