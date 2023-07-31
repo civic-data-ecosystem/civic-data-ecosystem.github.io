@@ -4,7 +4,7 @@ comments: true
 title: Sensemaking Workshops
 description: let's get together and make some sense
 image: null
-sticky: true
+sticky: false
 ---
 
 ### Upcoming Sensemaking Workshops
