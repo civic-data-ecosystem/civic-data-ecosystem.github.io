@@ -9,12 +9,13 @@ show_tile: false
 ---
 ## News
 
-- [Schedule of Sensemaking Workshops](/2023/05/30/sensemaking.html)
+- [CKAN Monthly Live Presentation](/2023/08/01/presentation.html)
 - [CKAN Major Releases Timeline: A Journey of Continuous Improvement](/2023/07/20/timeline.html)
 - [Sensemaking Workshop Recap](/2023/07/18/recap.html)
 - [Summary of Ecosystem Interviews Released](/2023/06/30/report.html)
 - [CKAN Instance Analysis](2023/06/19/analysis.html)
-- [Towards a Robust, Open-Source Civic Data Ecosystem](/2022/11/15/Welcome.html) 
+- [Schedule of Sensemaking Workshops](/2023/05/30/sensemaking.html)
+- [Towards a Robust, Open-Source Civic Data Ecosystem](/2022/11/15/Welcome.html)
 
 ## About
 
