@@ -8,7 +8,7 @@ author: null
 show_tile: false
 ---
 ## News
-
+- [The CKAN Open Data Community Celebrates Investment to Strengthen the CKAN Open-Source Ecosystem by the U.S. National Science Foundation](/2024/06/17/announcement.html)
 - [CKAN Monthly Live Presentation](/2023/08/01/presentation.html)
 - [CKAN Major Releases Timeline: A Journey of Continuous Improvement](/2023/07/20/timeline.html)
 - [Sensemaking Workshop Recap](/2023/07/18/recap.html)
